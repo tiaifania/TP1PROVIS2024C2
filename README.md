@@ -1,1 +1,3 @@
 # TP1PROVIS2024C2
+
+pada TP kali ini saya mensimulasikan pencarian katalog barang. di main nya kita masukkan barang - barang yang tersedia di dalam list. kemudian memasukkan nama orang dan nama barng yang ingin dicari. output yang ditampilkan sesuai dengan hasil pencarian, jika barang yang dicari ada di dalam catalog maka outputnya berupa nama barang yang dicari dan harga barang. teteapi kalau barang yang dicari tidak ada di dalam catalog, maka output nya akan menampilkan barang tidak ditemukan. untuk konsep asyncronus nya sendiri diterapkan pada metode 'searchanddisplay' yang mensimulasikan pencarian barang menggunakan keyword dengan delay
